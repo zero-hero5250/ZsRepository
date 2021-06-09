@@ -5,4 +5,6 @@ package com.msb;
  * @Company http://www.msb.com
  */
 public class student {
+    private String username;
+    private String password;
 }
