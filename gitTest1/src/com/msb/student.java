@@ -6,5 +6,5 @@ package com.msb;
  */
 public class student {
     private String username;
-    private String password;
+    private Double password;
 }
